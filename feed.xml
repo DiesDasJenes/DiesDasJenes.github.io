@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Jan 2018 14:47:26 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Jan 2018 14:47:26 +0100</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Über uns</title>
+        <description>&lt;p&gt;Der Studentische Stammtisch findet jeden Dienstag ab 19 Uhr im 
+Fährhaus statt. Er wird von einer Gruppe von Studierenden verschiedener Studiengänge 
+organisiert.&lt;/p&gt;
+
+&lt;p&gt;An jedem Studentischen Stammtisch könnt ihr neue Leute kennenlernen und einen entspannten Feierabend bei guter Musik genießen. Jeder ist willkommen und ihr braucht auch keine Getränke selber mitbringen. Einzig gute Laune braucht ihr!&lt;/p&gt;
+
+&lt;p&gt;Wenn ihr wissen möchtet, was am nächsten Dienstag auf dem 
+Studentischen Stammtisch passiert, solltet ihr in der Facebook Gruppe 
+vorbeischauen. Dort werden die Termine für das gesamte Semester 
+gepostet.&lt;/p&gt;
+
+&lt;p&gt;Euer Hauptinformationskanal ist die Facebookgruppe, welche ihr über 
+diesen Link findet: 
+&lt;strong&gt;&lt;a href=&quot;https://www.facebook.com/groups/1768458133388233/&quot;&gt;Facebook-Gruppe&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Wir freuen uns auf alle, die mit uns eine Community an der Hochschule 
+Bremerhaven fördern möchten. Wir sehen uns am Dienstag!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Dec 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000//about</link>
+        <guid isPermaLink="true">http://localhost:4000//about</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
