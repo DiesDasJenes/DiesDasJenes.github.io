@@ -1,5 +1,9 @@
-- language: German
-   level: Native Speaker
+# Languages
+- language: German 
+  level: native speaker
 
 - language: English
   level: fluent
+
+- language: French
+  level: beginner

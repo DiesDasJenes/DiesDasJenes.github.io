@@ -195,6 +195,26 @@
       <!-- end Interests -->
       {% endif %}
 
+      {% if site.resume_section_languages %}
+      <!-- begin Languages -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>LANGUAGES</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for languages in site.data.languages %}
+            <li>{{ languages.language }}: {{ languages.level }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Languages -->
+      {% endif %}
+
       {% if site.resume_section_links %}
       <!-- begin Links -->
       <section class="content-section">
