@@ -1,5 +1,4 @@
 # Skills
-- skill: DevOps
 - skill: Software Engineering
 - skill: Software Architecture
 - skill: Technical Leadership
@@ -17,6 +16,6 @@
 - skill: CSS
 - skill: Angular
 - skill: Terraform
-- skill: Cloud Infrastructure
+- skill: Cloud Infrastructure: AWS, GCP
 
   
