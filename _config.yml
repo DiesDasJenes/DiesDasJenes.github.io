@@ -14,7 +14,7 @@ resume_name:                    "Philipp Ludewig"
 resume_title:                   "Senior Software Developer Consultant"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "postkasten@philippludewig.de"
+resume_contact_email:           "job_applications@philippludewig.de"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
