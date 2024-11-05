@@ -23,7 +23,12 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "Hamburg • postkasten@philippludewig.de"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Experienced software developer and consultant. Fosters healthy international teams with an empathetic working style and brings equal amounts of technical proficiency, leadership expertise, and business acumen. Strongly believes in Continuous Delivery.</p>"
+resume_header_intro: "<p>Technically-minded professional with diverse experience in designing and implementing scalable software solutions. Proven track
+record in developing robust API integrations and optimizing microservice architectures on cloud platforms. Skilled in leveraging
+data processing technologies to enhance system performance and efficiency, while ensuring high availability and integrity of data
+pipelines. Expertise in creating complex, real-time functionalities that deliver exceptional performance across large datasets. Adept
+at collaborating with cross-functional teams to drive project success and align technical solutions with business objectives, all while
+fostering a culture of continuous improvement and best practices in software development.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
