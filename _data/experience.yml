@@ -14,17 +14,27 @@
   position:  Software Developer Consultant
   duration: Apr, 2018 &mdash; May, 2021
   summary: Developed and consulted clients in different industries. Living agile methodologies, pair programming, continuous delivery, test automation and TDD. Building backend microservices and cloud infrastructure.
+  achievements:
+    - achievement: Developed application capable of handling eight times the traffic of one of Europe's largest eCommerce platforms.
+    - achievement: Generated additional substantial revenue for German-based eCommerce marketplace by implementing alternative payment methods
+    - achievement: Launched new initiative to connect students with company, resulting in increased job applications over three consecutive years, with several participants successfully joining Thoughtworks.
 
 # Siemens Gamesa
 - company: Siemens Gamesa
   position: Industrial Network Specialist (working student)
   duration:   Aug, 2014  &mdash; Sep, 2017
-  summary: Implemented, managed and maintained unified endpoint management system with ~300 users. Provided daily maintenance and servicing for all Windows and Linux systems and administered virtualization hosts, including XenServer and vSphere.
+  summary: Administered daily maintenance for Windows and Linux systems, ensuring optimal performance and reliability. Managed virtualization hosts, including XenServer and vSphere, to support robust and scalable infrastructure. Streamlined certificate generation, Active Directory user creation, and information distribution via email/SMS, eliminating need for manual intervention and significantly improving efficiency. This project, completed as Master Thesis, greatly enhanced workflow by centralizing user data input and automating all related processes.
+  achievements:
+    - achievement: Achieved 80% reduction in maintenance time for technical service personnel by executing and overseeing a unified endpoint management system for approximately 300 users.
+    - achievement: Decreased installation and setup time for laptops from several days to just hours, enhancing productivity.
+    - achievement: Built Ruby server application, automating user creation, reducing manual tasks and process time from hours to minutes.
 
 # Abat
 - company: Abat AG
   position: SAP Integration Support (working student)
   duration:   Aug, 2012  &mdash; Mar, 2013
-  summary: Supported SAP consultants and employees of Abat AG in the integration of SAP at the Daimler plant in Bremen to replace the old logistics system. Produced information material and organized employee training courses. Worked as a first-level supporter for the entire Bremen plant and for LOREL Logistik GmbH. Monitored the incoming goods system and corrected input errors. Processed SAP program errors and supported the testing of SAP forms.
-
-
+  summary: Enhanced operational efficiency at Daimler’s Bremen plant by facilitating successful SAP integration, modernizing the logistics framework. Learned SAP training materials from consultants and provided effective support to key users, resolving issues and enhancing SAP adoption across teams. Streamlined incoming goods processes by correcting thousands of data input discrepancies, significantly improving inventory accuracy.
+  achievements:
+    - achievement: Served as primary support for all empties acceptance points at Bremen plant and LOREL Logistik GmbH, efficiently addressing technical issues across multiple locations to improve user experience and operational flow during crate exchanges.
+    - achievement: Eliminated SAP program errors and led the rigorous testing of SAP forms, ensuring system reliability and optimal performance.
+   
