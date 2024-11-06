@@ -62,7 +62,7 @@
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
           <ul class="resume-item-list">
-            {% for achievement in experience.achievements %}
+            {% for achievement in job.achievements %}
             <li>{{ achievement.achievement }}</li>
             {% endfor %}
           </ul>
